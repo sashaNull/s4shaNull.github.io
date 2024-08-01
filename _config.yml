@@ -13,6 +13,6 @@ style: dark
 footer: 
 
 # Build settings
-markdown: kramdown
-plugins:
-  - jekyll-seo-tag
+# markdown: kramdown
+# plugins:
+#   - jekyll-seo-tag
