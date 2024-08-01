@@ -8,8 +8,6 @@ header_pages:
  - index.md
  - about.md
  
-style: dark
-
 footer: 
 
 # Build settings
